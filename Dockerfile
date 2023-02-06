@@ -39,7 +39,7 @@ RUN apt-get update \
     && apt-get update \
     && apt-get install -y \
     ros-melodic-cv-bridge \
-    insros-melodic-perception-pcl \
+    ros-melodic-perception-pcl \
     ros-melodic-pcl-msgs \
     ros-melodic-vision-opencv \
     ros-melodic-xacro \
